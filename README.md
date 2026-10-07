@@ -1,3 +1,10 @@
+> ## 👋 Start Here
+> An Arduino/controller hardware project. **For users:** learn how microcontrollers and controller hardware can be connected for experimentation.
+>
+> **Safety & privacy:** Use security, network, camera, and data-collection features only with appropriate authorization and consent.
+
+---
+
 # PS4Arduino
 This library will allow you to turn your Arduino into a controller fully compatible with PS4!
 
